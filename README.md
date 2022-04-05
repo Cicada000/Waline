@@ -1,7 +1,8 @@
 基于Waline的评论系统
 
 HTML引入
-'<head>
+
+<head>
   <script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
 </head>
 <body>
@@ -12,4 +13,4 @@ HTML引入
       serverURL: 'https://comments.cicada000.work',
     });
   </script>
-</body>'
+</body>
