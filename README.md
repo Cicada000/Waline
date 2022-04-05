@@ -2,6 +2,7 @@
 
 HTML引入
 
+```
 <head>
   <script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
 </head>
@@ -14,3 +15,4 @@ HTML引入
     });
   </script>
 </body>
+```
